@@ -62,5 +62,13 @@ Aquest projecte s'ha desenvolupat seguint estrictament el patró **MVVM (Model-V
 Si vols clonar i provar aquest projecte al teu entorn local:
 
 1. Clona el repositori:
-   ```bash
-   git clone [https://github.com/Arnau-C/widget_mesura_arnau_calvo.git](https://github.com/Arnau-C/widget_mesura_arnau_calvo.git)
+   `git clone https://github.com/Arnau-C/widget_mesura_arnau_calvo.git`
+
+2. Accedeix al directori:
+   `cd widget_mesura_arnau_calvo`
+
+3. Descarrega les dependències (Provider, FilePicker, etc.):
+   `flutter pub get`
+
+4. Executa l'aplicació:
+   `flutter run`
