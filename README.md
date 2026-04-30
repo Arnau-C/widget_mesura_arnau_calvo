@@ -1,3 +1,4 @@
+
 <h1 align="center">📐 Mesurador de Plànols - Flutter</h1>
 
 <p align="center">
@@ -14,7 +15,7 @@
 
 ## 📸 Demostració Visual
 
-
+[Videocaptura de pantalla_20260430_041110.webm](https://github.com/user-attachments/assets/32eff429-9974-46af-8043-726106f6c5b8)
 
 ---
 
